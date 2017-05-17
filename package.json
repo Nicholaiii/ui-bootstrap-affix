@@ -1,0 +1,28 @@
+{
+  "name": "ui-bootstrap-affix",
+  "version": "0.1.0",
+  "description": "Affix navbars in angular ui bootstrap",
+  "main": "uib-affix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholaiii/ui-bootstrap-affix.git"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "angularjs",
+    "ui",
+    "bootstrap",
+    "uib",
+    "affix"
+  ],
+  "author": "Nicholai Nissen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicholaiii/ui-bootstrap-affix/issues"
+  },
+  "homepage": "https://github.com/Nicholaiii/ui-bootstrap-affix#readme"
+}

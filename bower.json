@@ -1,0 +1,26 @@
+{
+  "name": "ui-bootstrap-affix",
+  "description": "Affix navbars in angular ui bootstrap",
+  "main": "uib-affix.js",
+  "authors": [
+    "Nicholai Nissen"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "ng",
+    "angularjs",
+    "ui",
+    "bootstrap",
+    "uib",
+    "affix"
+  ],
+  "homepage": "https://github.com/Nicholaiii/ui-bootstrap-affix",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
